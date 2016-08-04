@@ -11,6 +11,10 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.7769015994854271
+author:
+  name: Justin
+  email: Justin@entry.co.uk
+  url: www.entrytech.co.uk
 name: JustInstall
 title: We Just Install
 description: life tech
