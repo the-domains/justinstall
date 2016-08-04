@@ -6,9 +6,9 @@ color:
   saturation: 0.6476199561730027
   rhythmicContrast: 0.6973267616704106
   brandColors:
-    - '#C7C7C7'
-    - '#3C3C3C'
-    - '#171717'
-    - '#868686'
-    - '#D7B554'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: JustInstall
