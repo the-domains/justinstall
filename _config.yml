@@ -1,4 +1,3 @@
-layout_spectrum: 0.7769015994854271
 typography_spectrum: 0.6349787719082087
 color:
   brandStrength: 0.6144626487512141
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.7769015994854271
 name: JustInstall
 title: We Just Install
+description: life tech
