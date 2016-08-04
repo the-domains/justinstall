@@ -4,21 +4,21 @@
         <description><![CDATA[We Just Install]]></description>
         <link>https://thegrid.ai/justinstall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 22:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 22:34:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/justinstall/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c5e0bc4-bec4-4e10-af76-242b53f35696.jpg">]]></description>
+            <link>https://thegrid.ai/justinstall/b3b9b9ad-373a-4efe-b7a4-c7e8eca9f6b4/index.html</link>
+            <guid isPermaLink="false">b3b9b9ad-373a-4efe-b7a4-c7e8eca9f6b4</guid>
+            <pubDate>Thu, 04 Aug 2016 22:34:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/50c47184-211c-4fd9-a0eb-6e0b0c13386a.jpg">]]></description>
             <link>https://thegrid.ai/justinstall/87e3de76-092b-4c4c-9afb-cd9c37fc31c6/index.html</link>
             <guid isPermaLink="false">87e3de76-092b-4c4c-9afb-cd9c37fc31c6</guid>
             <pubDate>Thu, 04 Aug 2016 22:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reduced Spoke Bicycles : Conceptual Bike]]></title>
-            <description><![CDATA[<article><h1>Reduced Spoke Bicycles : Conceptual Bike</h1><p>Conceptual Bike - Ion Lucin has simplified the design of a standard two-wheeler with his conceptual bike Baik that opts for three-spoked wheels, a limited use of lin...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11d821ce44263ec917e4ecde74cfe3ebb341c975.jpg"></article>]]></description>
-            <link>http://www.trendhunter.com/trends/conceptual-bike</link>
-            <guid isPermaLink="false">5a49a83d-e38d-41be-8fc3-2c30f4480ce6</guid>
-            <pubDate>Thu, 04 Aug 2016 22:03:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
