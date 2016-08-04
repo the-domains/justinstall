@@ -1,0 +1,14 @@
+layout_spectrum: 0.7769015994854271
+typography_spectrum: 0.6349787719082087
+color:
+  brandStrength: 0.6144626487512141
+  lightness: 0.8195632109418511
+  saturation: 0.6476199561730027
+  rhythmicContrast: 0.6973267616704106
+  brandColors:
+    - '#C7C7C7'
+    - '#3C3C3C'
+    - '#171717'
+    - '#868686'
+    - '#D7B554'
+name: JustInstall
